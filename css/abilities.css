@@ -1,0 +1,14 @@
+/* CSS files --> abilities.html */
+body{background-color:#00A19D  ;}
+table{width:100%; text-align: center} 
+/* div */
+.table-menu td:hover { background-color: #E05D5D ;;}
+.table-menu td {background-color:#FFB344;}
+.top-content{background-color:#E05D5D; color: #FFF8E5;}
+/* tag */
+td{color: #FFF8E5;font-family: cursive;background-color: #FFB344;}
+h1{text-align: center; font-family: cursive;}
+h4{text-align: center; font-family: Aclonica; font-weight:normal}
+h5{text-align: center; font-family: Aclonica; font-weight:normal}
+h2{text-align: center;color:#FFF8E5 ;}
+a {color: #FFF8E5;}

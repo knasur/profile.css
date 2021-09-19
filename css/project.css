@@ -1,0 +1,13 @@
+/* CSS files --> project.html */
+body{background-color:#FFB344  ;}
+table{width:100%; text-align: center} 
+/* div */
+.table-menu td:hover { background-color:#E05D5D;}
+.table-menu a{font-family: cursive;color:#FFF8E5}
+.table-menu td {background-color:#00A19D;font-family: cursive;}
+.top-content{background-color:#E05D5D; color: #FFF8E5;}
+/* tag */
+h1{text-align: center; font-family: cursive;color:#FFF8E5}
+h4{text-align: center; font-family: Aclonica; font-weight:normal;color:#FFF8E5}
+h5{text-align: center; font-family: Aclonica; font-weight:normal;color:#FFF8E5}
+p{text-align: center; ; font-size:large;color:#FFF8E5;}

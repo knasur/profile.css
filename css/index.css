@@ -1,0 +1,44 @@
+/* Css file => index.html */
+/* (1) Tag Selector */
+body{background-color:#00A19D  ;}
+h1{text-align: center; 
+    font-family: cursive;
+    color: #FFF8E5;
+    background-color: #FFB344;
+}
+h2{text-align: center; 
+    font-family: cursive; 
+    font-weight:normal
+}
+h3{color:#FFF8E5 ;}
+h4{text-align: center; 
+    font-family: Aclonica ; 
+    font-weight:normal
+}
+table{width:100%; 
+    text-align: center
+}
+ th{width: 33.33%; 
+    vertical-align: top;
+}
+/* (2) calss selecter */
+.p-Aboutme{font-weight:normal; 
+    text-align: justify;
+}
+.p-Name{font-weight:normal
+}
+.p-Footer{text-align: center;
+}
+.name{text-decoration:underline;
+      color:#FFF8E5 ;}
+.h2-name{background-color:#FFB344;}     
+/* (3) ID selecter */
+#th-Detail{text-align: left;
+}
+/* div */
+.top-Content{background-color:#FFB344;}
+.table-menu td:hover { background-color:#FFB344 ;}
+.table-menu a{color: #FFF8E5;}
+td {background-color:#E05D5D;font-family: cursive}
+.table-conten {background-color:#FFB344 ;}
+h2{background-color:#FFF8E5 ;}
